@@ -1,0 +1,9 @@
+c:\users\scar\documents\visual studio 2013\Projects\LifePunch Content Autopatcher\LifePunch Content Autopatcher\bin\Debug\LifePunch Content Autopatcher.exe.config
+c:\users\scar\documents\visual studio 2013\Projects\LifePunch Content Autopatcher\LifePunch Content Autopatcher\bin\Debug\LifePunch Content Autopatcher.exe
+c:\users\scar\documents\visual studio 2013\Projects\LifePunch Content Autopatcher\LifePunch Content Autopatcher\bin\Debug\LifePunch Content Autopatcher.pdb
+c:\users\scar\documents\visual studio 2013\Projects\LifePunch Content Autopatcher\LifePunch Content Autopatcher\obj\Debug\LifePunch Content Autopatcher.csprojResolveAssemblyReference.cache
+c:\users\scar\documents\visual studio 2013\Projects\LifePunch Content Autopatcher\LifePunch Content Autopatcher\obj\Debug\LifePunch_Content_Autopatcher.Form1.resources
+c:\users\scar\documents\visual studio 2013\Projects\LifePunch Content Autopatcher\LifePunch Content Autopatcher\obj\Debug\LifePunch_Content_Autopatcher.Properties.Resources.resources
+c:\users\scar\documents\visual studio 2013\Projects\LifePunch Content Autopatcher\LifePunch Content Autopatcher\obj\Debug\LifePunch Content Autopatcher.csproj.GenerateResource.Cache
+c:\users\scar\documents\visual studio 2013\Projects\LifePunch Content Autopatcher\LifePunch Content Autopatcher\obj\Debug\LifePunch Content Autopatcher.exe
+c:\users\scar\documents\visual studio 2013\Projects\LifePunch Content Autopatcher\LifePunch Content Autopatcher\obj\Debug\LifePunch Content Autopatcher.pdb
